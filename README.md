@@ -12,7 +12,7 @@ This company landing page was built with HTML and CSS.
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Author
-* Owusu Achiaw KWabena 
+* Owusu Achiaw Kwabena 
 * Yvette Laryea
 
 
