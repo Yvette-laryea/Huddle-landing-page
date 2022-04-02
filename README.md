@@ -2,14 +2,14 @@
 This company landing page was built with HTML and CSS. 
 
 ## Getting Started 
-### Opening the PRoject
+### Opening the Project
 * Fork or directly clone this repository to your local machine 
 * Open index.html in your browser of your choice and you are good to go. 
 * All the best.
 
 ### Stack
-[HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Author
 * Owusu Achiaw KWabena 
